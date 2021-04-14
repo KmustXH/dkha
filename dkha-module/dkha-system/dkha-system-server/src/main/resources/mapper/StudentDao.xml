@@ -11,6 +11,9 @@
 <!--        <result property="dormitoryNum" column="dormitory_num"/>-->
 
     </resultMap>
-
+    
+    <select id="selectByName" resultMap="studentMap">
+        select * from student where name = #{name}
+    </select>
 
 </mapper>

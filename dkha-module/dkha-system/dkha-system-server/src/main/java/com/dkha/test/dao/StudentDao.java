@@ -11,7 +11,7 @@ import java.util.List;
 @Mapper
 public interface StudentDao extends BaseMapper<Student> {
 
-    @Select("select * from student where name = #{name}")
+//    @Select("select * from student where name = #{name}")
     public List<Student> selectByName(String name);
 
     @Insert("insert into student(no, name) values(#{name}, #{no})")
