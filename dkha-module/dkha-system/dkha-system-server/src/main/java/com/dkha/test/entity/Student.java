@@ -18,6 +18,9 @@ public class Student {
     @TableField
     private String no;
 
+
+
+
     @TableField
     private Integer status;
 
