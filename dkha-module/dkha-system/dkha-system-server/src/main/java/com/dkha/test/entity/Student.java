@@ -21,6 +21,8 @@ public class Student {
     @TableField
     private Integer status;
 
+
+
     @TableField(exist = false)
     private List<Book> books;  // exist = false 表示不和数据库进行映射
 
