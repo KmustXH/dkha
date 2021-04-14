@@ -21,6 +21,9 @@ public class Student {
 
 
 
+
+
+
     @TableField
     private Integer status;
 
