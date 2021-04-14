@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/dkha-admin/dkha-admin-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dkha-admin/dkha-admin-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dkha-admin/dkha-admin-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dkha-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dkha-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dkha-commons/dkha-commons-dynamic-datasource/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dkha-commons/dkha-commons-elasticsearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dkha-commons/dkha-commons-entity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dkha-commons/dkha-commons-fileupload/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dkha-commons/dkha-commons-lock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dkha-commons/dkha-commons-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dkha-commons/dkha-commons-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dkha-commons/dkha-commons-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dkha-commons/dkha-commons-swagger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dkha-commons/dkha-commons-tools/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dkha-commons/dkha-commons-tools/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dkha-commons/dkha-commons-xxl-job/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dkha-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dkha-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dkha-module/dkha-system/dkha-system-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dkha-module/dkha-system/dkha-system-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dkha-module/dkha-system/dkha-system-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dkha-monitor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dkha-monitor/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

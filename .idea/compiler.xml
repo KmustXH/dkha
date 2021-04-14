@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dkha-commons-entity" />
+        <module name="dkha-commons-swagger" />
+        <module name="dkha-admin-client" />
+        <module name="dkha-gateway" />
+        <module name="dkha-commons-mybatis" />
+        <module name="dkha-auth" />
+        <module name="dkha-commons-fileupload" />
+        <module name="dkha-commons-xxl-job" />
+        <module name="dkha-commons-security" />
+        <module name="dkha-admin-server" />
+        <module name="dkha-commons-lock" />
+        <module name="dkha-commons-tools" />
+        <module name="dkha-commons-dynamic-datasource" />
+        <module name="dkha-commons-elasticsearch" />
+        <module name="dkha-monitor" />
+        <module name="dkha-commons-log" />
+        <module name="dkha-system-client" />
+        <module name="dkha-system-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dkha-admin" target="1.8" />
+      <module name="dkha-admin-client" target="1.8" />
+      <module name="dkha-admin-server" target="1.8" />
+      <module name="dkha-auth" target="1.8" />
+      <module name="dkha-commons" target="1.8" />
+      <module name="dkha-commons-dependencies" target="1.5" />
+      <module name="dkha-commons-dynamic-datasource" target="1.8" />
+      <module name="dkha-commons-elasticsearch" target="1.8" />
+      <module name="dkha-commons-entity" target="1.8" />
+      <module name="dkha-commons-fileupload" target="1.8" />
+      <module name="dkha-commons-lock" target="1.8" />
+      <module name="dkha-commons-log" target="1.8" />
+      <module name="dkha-commons-mybatis" target="1.8" />
+      <module name="dkha-commons-security" target="1.8" />
+      <module name="dkha-commons-swagger" target="1.8" />
+      <module name="dkha-commons-tools" target="1.8" />
+      <module name="dkha-commons-xxl-job" target="1.8" />
+      <module name="dkha-gateway" target="1.8" />
+      <module name="dkha-module" target="1.8" />
+      <module name="dkha-monitor" target="1.8" />
+      <module name="dkha-system" target="1.8" />
+      <module name="dkha-system-client" target="1.8" />
+      <module name="dkha-system-server" target="1.8" />
+      <module name="dkha-sz-main" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="dkha-admin-client" options="-parameters" />
+      <module name="dkha-admin-server" options="-parameters" />
+      <module name="dkha-auth" options="-parameters" />
+      <module name="dkha-commons-dynamic-datasource" options="-parameters" />
+      <module name="dkha-commons-elasticsearch" options="-parameters" />
+      <module name="dkha-commons-entity" options="-parameters" />
+      <module name="dkha-commons-fileupload" options="-parameters" />
+      <module name="dkha-commons-lock" options="-parameters" />
+      <module name="dkha-commons-log" options="-parameters" />
+      <module name="dkha-commons-mybatis" options="-parameters" />
+      <module name="dkha-commons-security" options="-parameters" />
+      <module name="dkha-commons-swagger" options="-parameters" />
+      <module name="dkha-commons-tools" options="-parameters" />
+      <module name="dkha-commons-xxl-job" options="-parameters" />
+      <module name="dkha-gateway" options="-parameters" />
+      <module name="dkha-monitor" options="-parameters" />
+      <module name="dkha-system-client" options="-parameters" />
+      <module name="dkha-system-server" options="-parameters" />
+    </option>
+  </component>
+</project>
