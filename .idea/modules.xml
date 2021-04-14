@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dkha-admin/dkha-admin.iml" filepath="$PROJECT_DIR$/dkha-admin/dkha-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dkha-admin/dkha-admin-client/dkha-admin-client.iml" filepath="$PROJECT_DIR$/dkha-admin/dkha-admin-client/dkha-admin-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dkha-admin/dkha-admin-server/dkha-admin-server.iml" filepath="$PROJECT_DIR$/dkha-admin/dkha-admin-server/dkha-admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dkha-auth/dkha-auth.iml" filepath="$PROJECT_DIR$/dkha-auth/dkha-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dkha-commons/dkha-commons.iml" filepath="$PROJECT_DIR$/dkha-commons/dkha-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dkha-commons/dkha-commons-dependencies/dkha-commons-dependencies.iml" filepath="$PROJECT_DIR$/dkha-commons/dkha-commons-dependencies/dkha-commons-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dkha-commons/dkha-commons-dynamic-datasource/dkha-commons-dynamic-datasource.iml" filepath="$PROJECT_DIR$/dkha-commons/dkha-commons-dynamic-datasource/dkha-commons-dynamic-datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dkha-commons/dkha-commons-elasticsearch/dkha-commons-elasticsearch.iml" filepath="$PROJECT_DIR$/dkha-commons/dkha-commons-elasticsearch/dkha-commons-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dkha-commons/dkha-commons-entity/dkha-commons-entity.iml" filepath="$PROJECT_DIR$/dkha-commons/dkha-commons-entity/dkha-commons-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dkha-commons/dkha-commons-fileupload/dkha-commons-fileupload.iml" filepath="$PROJECT_DIR$/dkha-commons/dkha-commons-fileupload/dkha-commons-fileupload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dkha-commons/dkha-commons-lock/dkha-commons-lock.iml" filepath="$PROJECT_DIR$/dkha-commons/dkha-commons-lock/dkha-commons-lock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dkha-commons/dkha-commons-log/dkha-commons-log.iml" filepath="$PROJECT_DIR$/dkha-commons/dkha-commons-log/dkha-commons-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dkha-commons/dkha-commons-mybatis/dkha-commons-mybatis.iml" filepath="$PROJECT_DIR$/dkha-commons/dkha-commons-mybatis/dkha-commons-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dkha-commons/dkha-commons-security/dkha-commons-security.iml" filepath="$PROJECT_DIR$/dkha-commons/dkha-commons-security/dkha-commons-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dkha-commons/dkha-commons-swagger/dkha-commons-swagger.iml" filepath="$PROJECT_DIR$/dkha-commons/dkha-commons-swagger/dkha-commons-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dkha-commons/dkha-commons-tools/dkha-commons-tools.iml" filepath="$PROJECT_DIR$/dkha-commons/dkha-commons-tools/dkha-commons-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dkha-commons/dkha-commons-xxl-job/dkha-commons-xxl-job.iml" filepath="$PROJECT_DIR$/dkha-commons/dkha-commons-xxl-job/dkha-commons-xxl-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dkha-gateway/dkha-gateway.iml" filepath="$PROJECT_DIR$/dkha-gateway/dkha-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dkha-module/dkha-module.iml" filepath="$PROJECT_DIR$/dkha-module/dkha-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dkha-monitor/dkha-monitor.iml" filepath="$PROJECT_DIR$/dkha-monitor/dkha-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dkha-module/dkha-system/dkha-system.iml" filepath="$PROJECT_DIR$/dkha-module/dkha-system/dkha-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dkha-module/dkha-system/dkha-system-client/dkha-system-client.iml" filepath="$PROJECT_DIR$/dkha-module/dkha-system/dkha-system-client/dkha-system-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dkha-module/dkha-system/dkha-system-server/dkha-system-server.iml" filepath="$PROJECT_DIR$/dkha-module/dkha-system/dkha-system-server/dkha-system-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dkha-sz-main.iml" filepath="$PROJECT_DIR$/.idea/dkha-sz-main.iml" />
+    </modules>
+  </component>
+</project>
