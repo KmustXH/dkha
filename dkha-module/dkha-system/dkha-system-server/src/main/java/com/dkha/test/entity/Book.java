@@ -1,5 +1,8 @@
 package com.dkha.test.entity;
 
+import com.baomidou.mybatisplus.annotation.TableName;
+
+
 public class Book {
     private Long id;
     private String name;
