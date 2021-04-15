@@ -21,10 +21,10 @@ public class StudentController {
         return student;
     }
 
-    @GetMapping("{name}")
-    public Object select(@PathVariable String name){
-//        List<Student> list = studentService.list();
-        List<Student> list = studentService.selectByName(name);
+    @GetMapping
+    public Object select(){
+        List<Student> list = studentService.list();
+//        List<Student> list = studentService.selectByName(name);
         return list;
     }
 
