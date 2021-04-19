@@ -4,6 +4,7 @@ package com.dkha.entity;
 
 import com.baomidou.mybatisplus.annotation.FieldFill;
 import com.baomidou.mybatisplus.annotation.TableField;
+import com.baomidou.mybatisplus.annotation.TableId;
 import com.baomidou.mybatisplus.annotation.TableName;
 import com.dkha.commons.mybatis.entity.BaseEntity;
 import lombok.Data;
@@ -20,6 +21,9 @@ import java.util.Date;
 @TableName("sys_user")
 public class SysUserEntity extends BaseEntity {
 	private static final long serialVersionUID = 1L;
+
+	@TableId
+	private Long id;
 
 	/**
 	 * 用户名

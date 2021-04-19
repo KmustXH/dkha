@@ -4,6 +4,7 @@ package com.dkha.entity;
 
 import com.baomidou.mybatisplus.annotation.FieldFill;
 import com.baomidou.mybatisplus.annotation.TableField;
+import com.baomidou.mybatisplus.annotation.TableId;
 import com.baomidou.mybatisplus.annotation.TableName;
 import com.dkha.commons.mybatis.entity.BaseEntity;
 import lombok.Data;
@@ -20,10 +21,13 @@ import java.util.Date;
 @TableName("sys_dept")
 public class SysDeptEntity extends BaseEntity {
 	private static final long serialVersionUID = 1L;
-
+	@TableId
+	private Long id;
 	/**
 	 * 上级ID
 	 */
+
+
 	private Long pid;
 	/**
 	 * 所有上级ID，用逗号分开

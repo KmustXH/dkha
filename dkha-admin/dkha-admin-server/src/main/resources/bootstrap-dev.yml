@@ -10,11 +10,13 @@ spring:
         metadata:
           management:
             context-path: ${server.servlet.context-path}/actuator
-        server-addr: ${nacos-host:127.0.0.1}:${nacos-port:8848}
+        #server-addr: ${nacos-host:127.0.0.1}:${nacos-port:8848}
+        #server-addr: ${nacos-host:192.168.0.90}:${nacos-port:8848}
+        server-addr: ${nacos-host:10.51.70.182}:${nacos-port:8848}
 #        server-addr: ${nacos-host:192.168.1.82}:${nacos-port:8848}
         #nacos的命名空间ID，默认是public
         namespace: ${nacos-namespace:}
-        group: zr
+        group: xh
       config:
         server-addr: ${spring.cloud.nacos.discovery.server-addr}
         namespace: ${spring.cloud.nacos.discovery.namespace}
